@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  height: 100vh; /* Full viewport height */
+  
+}
+
+.container {
+  border: 20px black solid;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  
+}
+
+.upper-half,
+.lower-half {
+  
+  font-size: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+.upper-half {
+ 
+  height: 350px;
+  color: aqua;
+  background-color: rgba(30, 25, 25, 0.96) /* Light blue for upper half */
+}
+
+.lower-half {
+  color:black;
+  background-color: aqua;
+  height: 350px;
+  
+  
+}
+.h1{
+  justify-content: center;
+  margin-left: 600px;
+  size: 100px;
+  margin-top: 80px;
+}
+
+.App-logo{
+  height: 100px;
+  width: 100px;
+  justify-content: center;
+  margin-left: 700px;
+}
