@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "ruchi",
+      "lastName": "Maurya",
+      "email": "ruchi12@gmail.com"
+    },
+    {
+      "id": "1741018078404",
+      "firstName": "Ayan",
+      "lastName": "Maurya",
+      "email": "ayan12@gmail.com"
+    },
+    {
+      "id": "194e",
+      "firstName": "Rudra",
+      "lastName": "Maurya",
+      "email": "rudra12@gmail.com"
+    }
+  ]
+}
