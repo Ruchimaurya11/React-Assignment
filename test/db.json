@@ -1,0 +1,15 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Aman",
+            "salary":"1000",
+            "city":"Ahemdabad",
+            "mobile":"4567849876"
+        }
+    ]
+
+
+
+
+}
